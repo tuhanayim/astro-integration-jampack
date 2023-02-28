@@ -1,0 +1,12 @@
+{
+  "name": "astro-integration-jampack",
+  "version": "0.0.0",
+  "description": "Jampack integration for Astro.build 🚀",
+  "keywords": [
+    "jampack",
+    "astro"
+  ],
+  "license": "MIT",
+  "author": "tuhana <hi@tuhana.me>",
+  "main": "index.js"
+}
